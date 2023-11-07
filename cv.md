@@ -2,8 +2,8 @@
 ***
 #### Contacts
 - E-mail: barkas00@proton.me
-- LinkedIn: www.linkedin.com/in/yurii-semenov-31038756
-- GitHub: https://github.com/barkas
+- LinkedIn: [www.linkedin.com/in/yurii-semenov-31038756](www.linkedin.com/in/yurii-semenov-31038756)
+- GitHub: [https://github.com/barkas](https://github.com/barkas)
 
 #### Profile
 I am a software engineer with 12+ years of experience in development of complex information systems. Played a role of team lead, key developer and developer. As a web-developer worked on two big projects.
@@ -48,9 +48,9 @@ Lead 1C:Enterprise developer
 #### Education
 Vinnytsia National Technical University, 2007 - 2012
 
-Courses at https://www.codecademy.com/, https://javascript.ru/, https://www.coursera.org/
+Courses at [codecademy](https://www.codecademy.com/), [javascript.ru](https://javascript.ru/), [coursera](https://www.coursera.org/)
 
 #### Languages
 Ukrainian
 Russian
-English (C1 https://www.efset.org/cert/tQ6uGJ , extensive experience working with English-speaking colleagues)
+English ([C1](https://www.efset.org/cert/tQ6uGJ) , extensive experience working with English-speaking colleagues)
